@@ -55,3 +55,11 @@ You can view the design on [Figma](https://www.figma.com/design/4ZHVs2vF3dTMghJn
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
 
 > The application is using Svelte v5, TailwindCss v3 and Typescript v5
+
+#### Time Spent:
+- Investigation: 0.5 hours
+- Development: 3.5 hours
+- Reorganizing and code cleaning: 0.5 hours
+- Additional feature (animation added): 0.5 hours
+
+#### Total: 5 hours
